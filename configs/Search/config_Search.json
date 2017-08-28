@@ -1,0 +1,22 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "sinicabuilding_7346",
+      "url": "https://services7.arcgis.com/6Ol5XjNkyqW9i58W/arcgis/rest/services/sinicabuilding/FeatureServer/0",
+      "name": "中研院建物位置",
+      "placeholder": "地點或地址",
+      "searchFields": [
+        "name"
+      ],
+      "displayField": "name",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    }
+  ]
+}
